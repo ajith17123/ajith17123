@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ajith17123&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ajith17123)
+[![Profile Views](https://hits.sh/github.com/ajith17123.svg?style=for-the-badge&label=PROFILE+VIEWS&color=dc2626&labelColor=1e293b)](https://hits.sh/github.com/ajith17123/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-m-web-developer/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajith.m.aji.17@gmail.com)
 
@@ -18,24 +18,21 @@
 <table width="100%" style="font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;">
   <tr>
     <td bgcolor="#0D1117" style="border: 2px solid #DC2626; border-radius: 12px; padding: 24px;">
-      <table width="100%" border="0">
-        <tr>
-          <td width="25%" align="center" valign="middle">
-            <img src="./assets/images/Ajith.png" alt="Ajith M Headshot" width="180" style="border-radius: 12px; border: 2px solid #EF4444;" />
-          </td>
-          <td width="75%" valign="top" style="padding-left: 20px;">
-            <h2 align="left" style="color: #F0F6FC; border-bottom: 2px solid #DC2626; padding-bottom: 8px; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">
-              ⚡ Mechanical Engineering &rarr; Full-Stack Web Engineering
-            </h2>
-            <p style="color: #C9D1D9; font-size: 15px; line-height: 1.6; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              Hello! I'm <b>Ajith M</b>, a Full-Stack Web Engineer with a strong foundational degree in <b>B.E. Mechanical Engineering</b>. I bridge physical engineering logic with modern full-stack software architecture.
-            </p>
-            <p style="color: #8B949E; font-size: 14px; line-height: 1.6; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              🎯 <b>Core Philosophy:</b> Applying structural systems thinking, root-cause troubleshooting, and algorithmic rigor to architect scalable, high-performance web applications. Focused on modular design patterns, clean code principles, and efficient data handling.
-            </p>
-          </td>
-        </tr>
-      </table>
+      <div align="center">
+        <img src="./assets/images/Ajith.png" alt="Ajith M Headshot" width="180" style="border-radius: 12px; border: 2px solid #EF4444;" />
+      </div>
+      <br />
+      <div align="left">
+        <h2 align="left" style="color: #F0F6FC; border-bottom: 2px solid #DC2626; padding-bottom: 8px; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">
+          ⚡ Mechanical Engineering &rarr; Full-Stack Web Engineering
+        </h2>
+        <p style="color: #C9D1D9; font-size: 15px; line-height: 1.6; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          Hello! I'm <b>Ajith M</b>, a Full-Stack Web Engineer with a strong foundational degree in <b>B.E. Mechanical Engineering</b>. I bridge physical engineering logic with modern full-stack software architecture.
+        </p>
+        <p style="color: #8B949E; font-size: 14px; line-height: 1.6; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          🎯 <b>Core Philosophy:</b> Applying structural systems thinking, root-cause troubleshooting, and algorithmic rigor to architect scalable, high-performance web applications. Focused on modular design patterns, clean code principles, and efficient data handling.
+        </p>
+      </div>
     </td>
   </tr>
 </table>
@@ -93,38 +90,35 @@
 <table width="100%" style="font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;">
   <tr>
     <td bgcolor="#0D1117" style="border: 2px solid #DC2626; border-radius: 12px; padding: 20px;">
-      <table width="100%" border="0">
-        <tr>
-          <td width="50%" valign="top">
-            <a href="https://ajith17123.github.io/bellavita-landing/">
-              <img src="./assets/images/Bellavita.png" alt="Bella Vita Landing Page" width="100%" style="border-radius: 8px; border: 1px solid #30363D;" />
-            </a>
-          </td>
-          <td width="50%" valign="top" style="padding-left: 20px;">
-            <h3 style="color: #EF4444; margin-top: 0; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">💎 Bella Vita Luxury Landing Page</h3>
-            <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              A high-converting, luxury aesthetic ecommerce landing showcase engineered with smooth visual hierarchy, responsive grid structures, and interactive UI micro-animations.
-            </p>
-            <p style="color: #8B949E; font-size: 13px; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              <b>Key Features:</b> Dynamic product showcase grids, mobile-first responsive layout, and cross-browser optimization.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-              <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-            </p>
-            <br />
-            <a href="https://ajith17123.github.io/bellavita-landing/">
-              <img src="https://img.shields.io/badge/🌐_Live_Demo-DC2626?style=for-the-badge&logoColor=white" />
-            </a>
-            &nbsp;
-            <a href="https://github.com/ajith17123/bellavita-landing">
-              <img src="https://img.shields.io/badge/💻_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+      <div align="center">
+        <a href="https://ajith17123.github.io/bellavita-landing/">
+          <img src="./assets/images/Bellavita.png" alt="Bella Vita Landing Page" width="100%" style="border-radius: 8px; border: 1px solid #30363D;" />
+        </a>
+      </div>
+      <br />
+      <div align="left">
+        <h3 style="color: #EF4444; margin-top: 0; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">💎 Bella Vita Luxury Landing Page</h3>
+        <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          A high-converting, luxury aesthetic ecommerce landing showcase engineered with smooth visual hierarchy, responsive grid structures, and interactive UI micro-animations.
+        </p>
+        <p style="color: #8B949E; font-size: 13px; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          <b>Key Features:</b> Dynamic product showcase grids, mobile-first responsive layout, and cross-browser optimization.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        </p>
+        <br />
+        <a href="https://ajith17123.github.io/bellavita-landing/">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-DC2626?style=for-the-badge&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/ajith17123/bellavita-landing">
+          <img src="https://img.shields.io/badge/💻_Repository-21262D?style=for-the-badge&logoColor=white" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -135,37 +129,34 @@
 <table width="100%" style="font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;">
   <tr>
     <td bgcolor="#0D1117" style="border: 2px solid #DC2626; border-radius: 12px; padding: 20px;">
-      <table width="100%" border="0">
-        <tr>
-          <td width="50%" valign="top">
-            <a href="https://ajith17123.github.io/car-skew2/">
-              <img src="./assets/images/Car.png" alt="Car Skew 3D Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363D;" />
-            </a>
-          </td>
-          <td width="50%" valign="top" style="padding-left: 20px;">
-            <h3 style="color: #EF4444; margin-top: 0; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">🏎️ Car Skew 3D Perspective Showcase</h3>
-            <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              An interactive visual experience utilizing advanced CSS3 perspective transformations and JavaScript event handlers to project 3D skewed vehicle presentations.
-            </p>
-            <p style="color: #8B949E; font-size: 13px; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              <b>Key Features:</b> Hardware-accelerated CSS 3D matrix transforms, interactive mouse-tracking visual perspective, and fluid frame rates.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-              <img src="https://img.shields.io/badge/CSS3_3D_Transforms-1572B6?style=flat-square&logo=css3&logoColor=white" />
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            </p>
-            <br />
-            <a href="https://ajith17123.github.io/car-skew2/">
-              <img src="https://img.shields.io/badge/🌐_Live_Demo-DC2626?style=for-the-badge&logoColor=white" />
-            </a>
-            &nbsp;
-            <a href="https://github.com/ajith17123/car-skew2">
-              <img src="https://img.shields.io/badge/💻_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+      <div align="center">
+        <a href="https://ajith17123.github.io/car-skew2/">
+          <img src="./assets/images/Car.png" alt="Car Skew 3D Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363D;" />
+        </a>
+      </div>
+      <br />
+      <div align="left">
+        <h3 style="color: #EF4444; margin-top: 0; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">🏎️ Car Skew 3D Perspective Showcase</h3>
+        <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          An interactive visual experience utilizing advanced CSS3 perspective transformations and JavaScript event handlers to project 3D skewed vehicle presentations.
+        </p>
+        <p style="color: #8B949E; font-size: 13px; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          <b>Key Features:</b> Hardware-accelerated CSS 3D matrix transforms, interactive mouse-tracking visual perspective, and fluid frame rates.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/CSS3_3D_Transforms-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        </p>
+        <br />
+        <a href="https://ajith17123.github.io/car-skew2/">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-DC2626?style=for-the-badge&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/ajith17123/car-skew2">
+          <img src="https://img.shields.io/badge/💻_Repository-21262D?style=for-the-badge&logoColor=white" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -176,37 +167,34 @@
 <table width="100%" style="font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;">
   <tr>
     <td bgcolor="#0D1117" style="border: 2px solid #DC2626; border-radius: 12px; padding: 20px;">
-      <table width="100%" border="0">
-        <tr>
-          <td width="50%" valign="top">
-            <a href="https://ajith17123.github.io/color-pill/">
-              <img src="./assets/images/Color.png" alt="Color Pill Generator" width="100%" style="border-radius: 8px; border: 1px solid #30363D;" />
-            </a>
-          </td>
-          <td width="50%" valign="top" style="padding-left: 20px;">
-            <h3 style="color: #EF4444; margin-top: 0; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">🎨 Color Pill Interactive Palette Generator</h3>
-            <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              A sleek web application for dynamic color code generation, palette manipulation, and instant clipboard hex/RGB copying designed for UI/UX developers.
-            </p>
-            <p style="color: #8B949E; font-size: 13px; font-family: 'Segoe UI', 'Inter', sans-serif;">
-              <b>Key Features:</b> Real-time DOM color manipulation, instant clipboard integration, and custom color scale generators.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            </p>
-            <br />
-            <a href="https://ajith17123.github.io/color-pill/">
-              <img src="https://img.shields.io/badge/🌐_Live_Demo-DC2626?style=for-the-badge&logoColor=white" />
-            </a>
-            &nbsp;
-            <a href="https://github.com/ajith17123/color-pill">
-              <img src="https://img.shields.io/badge/💻_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+      <div align="center">
+        <a href="https://ajith17123.github.io/color-pill/">
+          <img src="./assets/images/Color.png" alt="Color Pill Generator" width="100%" style="border-radius: 8px; border: 1px solid #30363D;" />
+        </a>
+      </div>
+      <br />
+      <div align="left">
+        <h3 style="color: #EF4444; margin-top: 0; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">🎨 Color Pill Interactive Palette Generator</h3>
+        <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          A sleek web application for dynamic color code generation, palette manipulation, and instant clipboard hex/RGB copying designed for UI/UX developers.
+        </p>
+        <p style="color: #8B949E; font-size: 13px; font-family: 'Segoe UI', 'Inter', sans-serif;">
+          <b>Key Features:</b> Real-time DOM color manipulation, instant clipboard integration, and custom color scale generators.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        </p>
+        <br />
+        <a href="https://ajith17123.github.io/color-pill/">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-DC2626?style=for-the-badge&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/ajith17123/color-pill">
+          <img src="https://img.shields.io/badge/💻_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
