@@ -24,10 +24,10 @@
       <br />
       <div align="left">
         <h2 align="left" style="color: #F0F6FC; border-bottom: 2px solid #DC2626; padding-bottom: 8px; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">
-          ⚡ Mechanical Engineering &rarr; Full-Stack Web Engineering
+          ⚡ Mechanical Engineering &rarr; FullStack Developer
         </h2>
         <p style="color: #C9D1D9; font-size: 15px; line-height: 1.6; font-family: 'Segoe UI', 'Inter', sans-serif;">
-          Hello! I'm <b>Ajith M</b>, a Full-Stack Web Engineer with a strong foundational degree in <b>B.E. Mechanical Engineering</b>. I bridge physical engineering logic with modern full-stack software architecture.
+          Hello! I'm <b>Ajith M</b>, a FullStack Developer with a strong foundational degree in <b>B.E. Mechanical Engineering</b>. I bridge physical engineering logic with modern fullstack software architecture.
         </p>
         <p style="color: #8B949E; font-size: 14px; line-height: 1.6; font-family: 'Segoe UI', 'Inter', sans-serif;">
           🎯 <b>Core Philosophy:</b> Applying structural systems thinking, root-cause troubleshooting, and algorithmic rigor to architect scalable, high-performance web applications. Focused on modular design patterns, clean code principles, and efficient data handling.
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td bgcolor="#0D1117" style="color: #F0F6FC; border: 1px solid #30363D; padding: 12px; font-weight: bold; font-family: 'Segoe UI', 'Inter', sans-serif;">
-      🎨 Frontend Engineering
+      🎨 Frontend 
     </td>
     <td bgcolor="#0D1117" style="border: 1px solid #30363D; padding: 12px;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -207,7 +207,7 @@
     <td bgcolor="#0D1117" align="center" style="border: 1px solid #30363D; border-radius: 12px; padding: 20px;">
       <h3 style="color: #F0F6FC; margin-bottom: 10px; font-family: 'Segoe UI', 'Inter', sans-serif; font-weight: 700;">🤝 Let's Connect &amp; Build Together</h3>
       <p style="color: #8B949E; font-size: 14px; max-width: 600px; margin-bottom: 16px; font-family: 'Segoe UI', 'Inter', sans-serif;">
-        Open to full-stack web engineering roles, collaborative software projects, and technical discussions.
+        Open to fullstack web development roles, collaborative software projects, and technical discussions.
       </p>
       <a href="mailto:ajith.m.aji.17@gmail.com">
         <img src="https://img.shields.io/badge/Email_Me-ajith.m.aji.17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
