@@ -19,7 +19,7 @@
   <tr>
     <td bgcolor="#0D1117" style="border: 2px solid #DC2626; border-radius: 12px; padding: 24px;">
       <div align="center">
-        <img src="./assets/images/Ajith.png" alt="Ajith M Headshot" width="180" style="border-radius: 12px; border: 2px solid #EF4444;" />
+        <img src="./assets/images/Ajith.jpg" alt="Ajith M Headshot" width="180" style="border-radius: 12px; border: 2px solid #EF4444;" />
       </div>
       <br />
       <div align="left">
